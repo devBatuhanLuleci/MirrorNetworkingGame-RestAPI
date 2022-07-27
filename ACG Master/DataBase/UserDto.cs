@@ -1,18 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace ACG_Master.DataBase.Entities
+﻿namespace ACG_Master.DataBase
 {
-    /// <summary>
-    /// User Enitity
-    /// </summary>
-    public class User : IEntity
+    public class UserDto
     {
-        [Key]
         public string MoralisId { get; set; }
         public string NickName { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }
-
     }
 }

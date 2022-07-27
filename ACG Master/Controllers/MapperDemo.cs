@@ -1,4 +1,5 @@
-﻿using ACG_Master.DataBase.Entities;
+﻿using ACG_Master.DataBase;
+using ACG_Master.DataBase.Entities;
 using ACG_Master.Mapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -14,6 +15,7 @@ namespace ACG_Master.Controllers
         {
             mapper = _mapper;
         }
+        [HttpGet]
         public UserDto Index()
         {
 

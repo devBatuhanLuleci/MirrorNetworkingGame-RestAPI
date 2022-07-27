@@ -4,6 +4,11 @@ using System.Linq.Expressions;
 
 namespace ACG_Master.DataBase.Access
 {
+
+    /// <summary>
+    /// a base service for main actions of any data service
+    /// </summary>
+    /// <typeparam name="T">Entity of extended service</typeparam>
     public class ServiceBase<T> : IServiceBase<T> where T : class, IEntity, new()
     {
         protected ACGContext context;
@@ -30,8 +35,7 @@ namespace ACG_Master.DataBase.Access
 
         public T Get(string id)
         {
-            var entity = context.Find<T>(id);
-            return entity;
+            return context.Find<T>(id); ;
         }
 
         public T Get(Expression<Func<T, bool>> filter = null)

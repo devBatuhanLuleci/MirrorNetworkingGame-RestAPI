@@ -7,7 +7,10 @@ namespace ACG_Master.Mapper
         private AutoMapper.IMapper _mapper;
         public Mapper()
         {
-            var profiles = new List<UserProfile>(new List<UserProfile>());
+            var profiles = new List<UserProfile>()
+            {
+                new UserProfile()
+            };
             var config = new MapperConfiguration(config =>
             {
                 foreach (var item in profiles)
@@ -15,11 +18,13 @@ namespace ACG_Master.Mapper
                     config.AddProfile(item);
                 }
             });
-            _mapper = config.CreateMapper();
+            _mapper = new AutoMapper.Mapper(config);
+            //_mapper = config.CreateMapper();
         }
-
+        // düzenlenecek
         public TDestination Map<TSource, TDestination>(TSource source)
         {
+
             return _mapper.Map<TDestination>(source);
         }
     }

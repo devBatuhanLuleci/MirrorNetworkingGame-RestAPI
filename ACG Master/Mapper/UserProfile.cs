@@ -1,4 +1,5 @@
-﻿using ACG_Master.DataBase.Entities;
+﻿using ACG_Master.DataBase;
+using ACG_Master.DataBase.Entities;
 using AutoMapper;
 
 namespace ACG_Master.Mapper
@@ -13,8 +14,5 @@ namespace ACG_Master.Mapper
     }
 
 
-    public class UserDto : User
-    {
-
-    }
+   
 }

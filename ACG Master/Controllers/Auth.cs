@@ -39,24 +39,25 @@ namespace ACG_Master.Controllers
         /// <param name="userData">User info from request body</param>
         /// <returns></returns>
         [HttpPost("create")]
-        public IActionResult Create([FromBody] UserDto userData)
+        [Consumes("application/x-www-form-urlencoded")]
+        public IActionResult Create([FromForm] UserDto userData)
         {
-            /*
-             {
-  "moralisId": "abc123",
-  "nickName": "exop",
-  "firstName": "exop",
-  "lastName": "exopl",
-  "email": "test@test.com"
-}
-             */
             try
             {
                 var user = _authService.Get(userData.MoralisId);
-                if (user != null) return BadRequest("User already created!");
-                user = _mapper.Map<UserDto, User>(userData);
-                _authService.Add(user);
-                return Ok();
+
+                if (user != null)
+                {
+                    user = _mapper.Map<UserDto, User>(userData);
+                    _authService.Update(user);
+                }
+                else
+                {
+                    user = _mapper.Map<UserDto, User>(userData);
+                    _authService.Add(user);
+
+                }
+                return Ok(user);
             }
             catch (Exception ex)
             {

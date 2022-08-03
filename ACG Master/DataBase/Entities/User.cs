@@ -10,6 +10,5 @@ namespace ACG_Master.DataBase.Entities
         [Key]
         public string MoralisId { get; set; }
         public string Email { get; set; }
-
     }
 }

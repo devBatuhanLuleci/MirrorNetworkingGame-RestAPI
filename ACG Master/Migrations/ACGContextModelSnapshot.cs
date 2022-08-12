@@ -23,18 +23,25 @@ namespace ACG_Master.Migrations
 
             modelBuilder.Entity("ACG_Master.DataBase.Entities.User", b =>
                 {
-                    b.Property<string>("MoralisId")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Id")
+                    b.Property<string>("MoralisId")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("MoralisId");
+                    b.Property<string>("WalletId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
 
                     b.ToTable("Users");
                 });

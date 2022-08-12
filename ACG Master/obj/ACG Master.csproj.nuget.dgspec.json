@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj": {}
+    "C:\\Users\\exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj": {
+    "C:\\Users\\exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj",
+        "projectUniqueName": "C:\\Users\\exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj",
         "projectName": "ACG Master",
-        "projectPath": "C:\\Users\\Exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj",
-        "packagesPath": "C:\\Users\\Exop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\obj\\",
+        "projectPath": "C:\\Users\\exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj",
+        "packagesPath": "C:\\Users\\exop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Exop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\exop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -91,7 +91,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -103,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

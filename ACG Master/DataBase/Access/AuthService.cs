@@ -8,5 +8,9 @@ namespace ACG_Master.DataBase.Access
         public AuthService(ACGContext context) : base(context)
         {
         }
+        public override User Get(string id)
+        {
+            return base.Get(item => item.MoralisId == id);
+        }
     }
 }

@@ -33,7 +33,7 @@ namespace ACG_Master.DataBase.Access
             context.SaveChanges();
         }
 
-        public T Get(string id)
+        public virtual T Get(string id)
         {
             return context.Find<T>(id); ;
         }

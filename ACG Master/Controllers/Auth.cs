@@ -65,8 +65,27 @@ namespace ACG_Master.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+        [HttpPost("isRegistered")]
+        public IActionResult IsRegistered([FromForm] UserDto userData)
+        {
+            try
+            {
+                var user = _authService.Get(userData.WalletId);
 
+                if (user == null)
+                {
+                    return StatusCode(404, "User not found.");
 
+                }
+
+                return Ok(user);
+            }
+            catch (Exception ex)
+            {
+                Console.Write($"Something went wrong inside CreateOwner action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
 
     }
 }

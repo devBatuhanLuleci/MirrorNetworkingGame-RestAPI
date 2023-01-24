@@ -12,5 +12,6 @@ namespace ACG_Master.DataBase.Entities
         public string MoralisId { get; set; }
         public string WalletId { get; set; }
         public string Email { get; set; }
+        public string UserName { get; set; }
     }
 }

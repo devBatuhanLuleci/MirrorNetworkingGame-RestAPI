@@ -12,5 +12,17 @@ namespace ACG_Master.DataBase.Access
         {
             return base.Get(item => item.MoralisId == id);
         }
+        public User GetByWalletId(string walledId)
+        {
+            return base.Get(item => item.WalletId == walledId);
+        }
+        public  User GetByUserName(string userName)
+        {
+            return base.Get(item => item.UserName == userName);
+        }
+        public User GetByEmail(string email)
+        {
+            return base.Get(item => item.Email == email);
+        }
     }
 }

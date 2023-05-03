@@ -2,6 +2,7 @@
 
 using ACG_Master.DataBase.Access;
 using ACG_Master.Mapper;
+using ACG_Master.MiddleWares;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ACG_Master.DataBase.ACGContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("ACG")));
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddSingleton<IMapper, Mapper>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -24,8 +26,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
 
+app.UseHttpsRedirection();
+//app.UseMiddleware<ApiKeyMiddleware>();
 app.UseAuthorization();
 
 app.MapControllers();

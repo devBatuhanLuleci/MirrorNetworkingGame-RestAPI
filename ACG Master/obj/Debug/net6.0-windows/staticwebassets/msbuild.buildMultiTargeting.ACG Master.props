@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ACG Master.props" />
+</Project>

@@ -6,7 +6,6 @@ namespace ACG_Master.DataBase.Dtos
 {
     public class UserDto
     {
-        public string MoralisId { get; set; }
         [EmailAddress]
         public string Email { get; set; }
         public string WalletId { get; set; }

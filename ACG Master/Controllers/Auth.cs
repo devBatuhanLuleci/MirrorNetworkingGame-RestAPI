@@ -21,17 +21,19 @@ namespace ACG_Master.Controllers
             _mapper = mapper;
         }
         ///<summary>
-        /// api/auth/login/{moralisId}
+        /// api/auth/login/{walletId}
         /// if moralis Id is available return User model else return badrequest client must register.
         /// </summary>
-        [HttpGet("login/{moralisId}")]
-        public IActionResult Login(string moralisId)
+        [HttpGet("login/{walletId}")]
+        public IActionResult Login(string walletId)
         {
             try
             {
                 // TODO: burası walletId olarak değiştirilecek
-                var user = _authService.Get(moralisId);
-                if (user == null) return NotFound(new { moralisId });
+                var user = _authService.GetByWalletId(walletId);
+                if (user == null) return NotFound(new { walletId });
+                user.AccessToken = Guid.NewGuid().ToString();
+                _authService.Update(user);
                 return Ok(user);
             }
             catch (Exception ex)
@@ -71,6 +73,7 @@ namespace ACG_Master.Controllers
             }
         }
 
+        #region x-www-form-urlencoded
         /// <summary>
         /// Creating new user
         /// </summary>
@@ -82,11 +85,11 @@ namespace ACG_Master.Controllers
         {
             try
             {
-                var user = _authService.Get(userData.MoralisId);
+                var user = _authService.GetByWalletId(userData.WalletId);
 
                 if (user != null)
                 {
-                    user = _mapper.Map<UserDto, User>(userData);
+                    user = _mapper.Map(userData, user);
                     _authService.Update(user);
                 }
                 else
@@ -103,6 +106,27 @@ namespace ACG_Master.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
+        [HttpGet("Master/GetUser/{accessToken}")]
+        public IActionResult GetUserForMaster(string accessToken)
+        {
+            try
+            {
+                // check user
+                var user = _authService.GetUserByAccessTokenId(accessToken);
+                if (user == null) return NotFound(new { accessToken });
+                return Ok(user);
+            }
+            catch (Exception ex)
+            {
+                Console.Write($"Something went wrong inside CreateOwner action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
+
+        #endregion
+
+
 
         [HttpGet("getUser/{wallet}")]
         public IActionResult GetUser(string wallet)
@@ -142,7 +166,7 @@ namespace ACG_Master.Controllers
         {
             try
             {
-                var user = _authService.GetByUserName(userName);     
+                var user = _authService.GetByUserName(userName);
                 return Ok(user != null);
             }
             catch (Exception ex)
@@ -165,6 +189,11 @@ namespace ACG_Master.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+        [HttpPost]
+        public IActionResult Post([FromBody] User user)
+        {
+            return Ok(user);
 
+        }
     }
 }

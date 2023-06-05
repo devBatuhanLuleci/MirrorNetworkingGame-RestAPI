@@ -10436,19 +10436,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\exop\\.nuget\\packages\\": {}
+    "C:\\Users\\Exop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj",
+      "projectUniqueName": "C:\\Users\\Exop\\Documents\\Any Civilization Game\\RestApi\\ACG Master\\ACG Master.csproj",
       "projectName": "ACG Master",
-      "projectPath": "C:\\Users\\exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\ACG Master.csproj",
-      "packagesPath": "C:\\Users\\exop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\exop\\Documents\\Any Civilization Game\\ACG Master\\ACG Master\\obj\\",
+      "projectPath": "C:\\Users\\Exop\\Documents\\Any Civilization Game\\RestApi\\ACG Master\\ACG Master.csproj",
+      "packagesPath": "C:\\Users\\Exop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Exop\\Documents\\Any Civilization Game\\RestApi\\ACG Master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\exop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Exop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -32,7 +32,6 @@ namespace ACG_Master.Controllers
                 // TODO: burası walletId olarak değiştirilecek
                 var user = _authService.GetByWalletId(walletId);
                 if (user == null) return NotFound(new { walletId });
-                user.AccessToken = Guid.NewGuid().ToString();
                 _authService.Update(user);
                 return Ok(user);
             }
@@ -95,6 +94,7 @@ namespace ACG_Master.Controllers
                 else
                 {
                     user = _mapper.Map<UserDto, User>(userData);
+                    user.AccessToken = Guid.NewGuid().ToString();
                     _authService.Add(user);
 
                 }

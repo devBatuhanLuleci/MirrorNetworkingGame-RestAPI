@@ -268,3 +268,273 @@ C:\Users\Exop\Documents\Any Civilization Game\RestApi\ACG Master\obj\Debug\net6.
 C:\Users\Exop\Documents\Any Civilization Game\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.pdb
 C:\Users\Exop\Documents\Any Civilization Game\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.genruntimeconfig.cache
 C:\Users\Exop\Documents\Any Civilization Game\RestApi\ACG Master\obj\Debug\net6.0-windows\ref\ACG Master.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\appsettings.Development.json
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\appsettings.json
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ACG Master.exe
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ACG Master.deps.json
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ACG Master.runtimeconfig.json
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ACG Master.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ACG Master.pdb
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\AutoMapper.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Humanizer.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\MessagePack.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.Build.Locator.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Features.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Razor.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Scripting.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.DiaSymReader.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\dotnet-aspnet-codegenerator-design.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.Common.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.Configuration.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.DependencyResolver.Core.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.LibraryModel.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.Packaging.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.ProjectModel.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.Protocol.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\NuGet.Versioning.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\protobuf-net.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\protobuf-net.Core.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\unity\RestApi\ACG Master\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.csproj.AssemblyReference.cache
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.AssemblyInfoInputs.cache
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.AssemblyInfo.cs
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.csproj.CoreCompileInputs.cache
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.MvcApplicationPartsAssemblyInfo.cs
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.MvcApplicationPartsAssemblyInfo.cache
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\staticwebassets\msbuild.ACG Master.Microsoft.AspNetCore.StaticWebAssets.props
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\staticwebassets\msbuild.build.ACG Master.props
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.ACG Master.props
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildTransitive.ACG Master.props
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\staticwebassets.pack.json
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\staticwebassets.build.json
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\staticwebassets.development.json
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\scopedcss\bundle\ACG Master.styles.css
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.csproj.CopyComplete
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.dll
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\refint\ACG Master.dll
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.pdb
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ACG Master.genruntimeconfig.cache
+F:\unity\RestApi\ACG Master\obj\Debug\net6.0-windows\ref\ACG Master.dll

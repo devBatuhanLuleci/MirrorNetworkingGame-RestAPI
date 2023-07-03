@@ -195,5 +195,15 @@ namespace ACG_Master.Controllers
             return Ok(user);
 
         }
+
+        [HttpPost]
+        public IActionResult AddCoin([FromBody] string wallet, [FromBody] int count)
+        {
+            var user = _authService.GetByWalletId(wallet);
+            if (user == null) return NotFound(new { wallet });
+            user.Coins += count;
+            _authService.Update(user);
+            return Ok();
+        }
     }
 }
